@@ -1,5 +1,5 @@
 ---
-title: HUME - Human-Machine Teaming for the Maritime Environment
+title: Human-Machine Teaming
 layout: page
 ---
 
