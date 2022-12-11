@@ -11,3 +11,10 @@ The research and development project, funded by the Office of Naval Research (ON
 
 See also: 
 C. Conlan, M. DeFilippo, M. Benjamin, B. Whetton, P. Opgernoorth, A. Munafo, "Coordinating Multiple Autonomies to Improve Mission Performance", Intl. Conf. IEEE/MTS OCEANS 2021.
+
+<p style="text-align:center;">
+<img src="https://www.seebyte.com/media/1082/moos-ivp_autonomy_system.jpg?width=745&height=479&mode=max" alt="MOOS-IvP autonomy system & human-machine teaming put into practice at the MIT facilities.">
+</p>
+
+MOOS-IvP autonomy system & human-machine teaming put into practice at the MIT facilities.
+Courtesy of Massachusetts Institute of Technology
